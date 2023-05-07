@@ -4,6 +4,7 @@ seoTitle: "The subgraph Development"
 datePublished: Thu May 04 2023 03:37:09 GMT+0000 (Coordinated Universal Time)
 cuid: clh8kt6pp000009la2epv6yv3
 slug: unleashing-the-power-of-blockchain-data-with-the-graph
+canonical: https://hashnode.com/post/clh8kt6pp000009la2epv6yv3
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683170063715/1a54474e-a2dd-488c-97b7-47151032333a.png
 tags: blockchain, web3, indexing, querying, the-graph
 
