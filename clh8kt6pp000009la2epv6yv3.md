@@ -40,6 +40,6 @@ We can see how The Graph is an essential part of the Web3 tech stack as it provi
 
 ---
 
-If you enjoyed this article and want to learn more about The Graph, I'll be making a bit of content for The Graph in the coming days. Follow me on [Twitter](https://twitter.com/subgraphdev) and Hashnode to be alerted about my next article in this series. In the next article, we will explore the subgraphs and how the subgraphs are built. You can find me on all platforms **.@subgraphdev**.
+If you enjoyed this article and want to learn more about The Graph, I'll be making a bit of content for The Graph in the coming days. Follow me on [Twitter](https://twitter.com/subgraphdev) and Hashnode to be alerted about my next article in this series. In the next article, we will explore The Graph Network and its participant's role. You can find me on all platforms **.@subgraphdev**.
 
 ---
