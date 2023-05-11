@@ -1,6 +1,6 @@
 ---
 title: "A brief overview of The Graph Network and its Participants."
-seoTitle: "How The Graph Networks works?"
+seoTitle: "A brief overview of The Graph Network and its Participants."
 datePublished: Thu May 11 2023 05:45:26 GMT+0000 (Coordinated Universal Time)
 cuid: clhiph50e000h09jk4bsc3vaj
 slug: a-brief-overview-of-the-graph-network-and-its-participants
