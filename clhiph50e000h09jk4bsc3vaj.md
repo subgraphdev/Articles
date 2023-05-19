@@ -44,33 +44,27 @@ The Graph Network is a decentralized ecosystem and, it has three main participan
 
 We'll explore the functions and responsibilities of all the different participants in The Graph network, including Indexers, Curators, Delegators, Fishermen, Arbitrators, and Subgraph Developers. By gaining a deeper understanding of the roles each participant plays and how they interact with one another, we can better appreciate the decentralized nature and overall efficiency of The Graph network. From maintaining the accuracy and reliability of indexed data to building and updating subgraphs, each participant plays a critical role in enabling developers to build more powerful decentralized applications on the blockchain. By working together in a transparent and decentralized environment, The Graph network participants are contributing to the growth and success of the blockchain ecosystem as a whole. Let's explore each participant's role one by one:
 
-1. Indexers: Indexers are nodes on the network that index blockchain data and make it available for querying. They are responsible for running and maintaining the indexing software, which involves monitoring the blockchain for new data, extracting the relevant data, and storing it in a format that can be easily queried. Indexers also stake tokens to participate in the network, which serves as collateral and incentivizes them to provide reliable and accurate indexing services. In order to run an indexing node, Indexers must stake 100,000 GRT or more with the network.
-    
+**Indexers:** Indexers are nodes on the network that index blockchain data and make it available for querying. They are responsible for running and maintaining the indexing software, which involves monitoring the blockchain for new data, extracting the relevant data, and storing it in a format that can be easily queried. Indexers also stake tokens to participate in the network, which serves as collateral and incentivizes them to provide reliable and accurate indexing services. In order to run an indexing node, Indexers must stake 100,000 GRT or more with the network.
 
 Indexers earn rewards for indexing data and serving queries. The amount of rewards they earn is proportional to the amount of data they index and the number of queries they serve. Indexers are also incentivized to ensure their indexes are accurate and up-to-date, as any inaccuracies or missing data can result in penalties or reduced rewards.
 
-1. Curators: Curators are individuals or entities that signal their interest in specific subgraphs by staking tokens. They are responsible for identifying high-quality subgraphs and signaling their value to the network. Curators can signal their interest in subgraphs created by indexers or other curators.
-    
+**Curators:** Curators are individuals or entities that signal their interest in specific subgraphs by staking tokens. They are responsible for identifying high-quality subgraphs and signaling their value to the network. Curators can signal their interest in subgraphs created by indexers or other curators.
 
 Curators earn rewards for curating valuable subgraphs. The amount of rewards they earn is proportional to the number of tokens they've staked. Curators are incentivized to identify and signal high-quality subgraphs, as doing so can attract more users and increase the value of the network.
 
-1. Delegators: Delegators stake tokens to support specific indexers or curators. By doing so, they earn a portion of the rewards earned by those indexers or curators. Delegators do not perform any work on the network themselves, but they provide critical support to other participants.
-    
+**Delegators:** Delegators stake tokens to support specific indexers or curators. By doing so, they earn a portion of the rewards earned by those indexers or curators. Delegators do not perform any work on the network themselves, but they provide critical support to other participants.
 
 Delegators can choose to support specific indexers or curators based on factors such as their track record, the quality of their work, and their potential for future success. Delegators can also change their support at any time, providing flexibility and allowing them to adapt to changing conditions in the network.
 
-1. Fisherman: Fishermen serve as a kind of "watchdog" to ensure the accuracy and reliability of indexed data. Fishermen monitor the network for any errors, inaccuracies, or malicious behavior by indexers, and submit evidence of any such behavior to the network. This evidence is then used to penalize the offending indexer and compensate the Fisherman with a portion of the penalty.
-    
+**Fisherman:** Fishermen serve as a kind of "watchdog" to ensure the accuracy and reliability of indexed data. Fishermen monitor the network for any errors, inaccuracies, or malicious behavior by indexers, and submit evidence of any such behavior to the network. This evidence is then used to penalize the offending indexer and compensate the Fisherman with a portion of the penalty.
 
 Fishermen earn rewards for submitting valid evidence of misconduct by indexers. The amount of rewards they earn is proportional to the severity of the offense and the amount of penalties imposed on the offending indexer. By serving as a check on the behavior of indexers, Fishermen play a critical role in maintaining the accuracy and reliability of The Graph Network, which benefits developers, users, and other stakeholders in the blockchain ecosystem.
 
-1. Arbitrators: Arbitrators are responsible for resolving disputes that arise between indexers and curators. They review evidence submitted by Fishermen and other parties and determine whether a penalty should be imposed on an indexer or curator, and if so, the amount of the penalty.
-    
+**Arbitrators:** Arbitrators are responsible for resolving disputes that arise between indexers and curators. They review evidence submitted by Fishermen and other parties and determine whether a penalty should be imposed on an indexer or curator, and if so, the amount of the penalty.
 
 Arbitrators earn rewards for their work in resolving disputes. The amount of rewards they earn is proportional to the number and complexity of disputes they resolve. Arbitrators are incentivized to be fair and impartial in their decisions, as any appearance of bias or favoritism could damage their reputation and lead to fewer opportunities to work as an arbitrator in the future. Arbitrators play a critical role in ensuring the integrity and fairness of The Graph Network, which benefits all participants and contributes to the growth and success of the blockchain ecosystem.
 
-1. Subgraph Developers: Subgraph Developers are participants in The Graph Network that are responsible for creating and maintaining subgraphs, which are used to index and query specific data on the blockchain. Subgraph Developers use The Graph's tools and infrastructure to build and deploy subgraphs and are responsible for keeping them up-to-date and accurate.
-    
+**Subgraph Developers:** Subgraph Developers are participants in The Graph Network that are responsible for creating and maintaining subgraphs, which are used to index and query specific data on the blockchain. Subgraph Developers use The Graph's tools and infrastructure to build and deploy subgraphs and are responsible for keeping them up-to-date and accurate.
 
 Subgraph Developers in The Graph Network earn by building the subgraph for Dapps. Subgraph Developers can also earn additional rewards by participating in The Graph's grant programs, which provide funding for the development of new subgraphs that meet specific criteria or address specific needs within the decentralized application ecosystem.
 
