@@ -11,7 +11,7 @@ tags: data-science, blockchain, web3, thegraph
 
 ---
 
-In the first article, we explored the significance of data in the blockchain ecosystem and the transformative role of The Graph in facilitating data access for decentralized applications (DApps). The second article provided an overview of The Graph's decentralized network, highlighting the various participants and their collaborative efforts in maintaining network operations. In this third article, our focus will be on understanding subgraphs, setting up the required tools on our local machine, and building a basic subgraph for an ERC20 token. So let's get started.
+In the first two articles of this series, we explored the significance of data in the blockchain ecosystem and the transformative role of The Graph in facilitating data access for decentralized applications (DApps). The second article provided an overview of The Graph's decentralized network, highlighting the various participants and their collaborative efforts in maintaining network operations. In this third article, our focus will be on understanding subgraphs, setting up the required tools on our local machine, and building a basic subgraph for an ERC20 token. So let's get started.
 
 ### What is a subgraph?
 
