@@ -5,7 +5,7 @@ seoDescription: "Explore and how The Graph Networks works  and how each particip
 datePublished: Thu May 11 2023 05:45:26 GMT+0000 (Coordinated Universal Time)
 cuid: clhiph50e000h09jk4bsc3vaj
 slug: a-brief-overview-of-the-graph-network-and-its-participants
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683429483263/cc81455c-fae2-41a1-9d2f-e57ba854b3e5.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687582050663/4ffb690a-5924-4303-8498-6ff100330417.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683783756413/5bfd10ac-9e7b-4ce1-89d1-2ff68e22c4fb.png
 tags: data-science, graphql, blockchain, web3, thegraph
 
