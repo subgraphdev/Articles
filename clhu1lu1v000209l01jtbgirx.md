@@ -5,7 +5,7 @@ seoDescription: "Discover the world of subgraph development and learn how to cre
 datePublished: Fri May 19 2023 04:10:29 GMT+0000 (Coordinated Universal Time)
 cuid: clhu1lu1v000209l01jtbgirx
 slug: building-subgraphs-a-guide-to-understanding-and-creating-them
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684469137111/bc252cd0-be9f-4523-b4a8-ffd8421534d8.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687581324862/a02673a8-b50b-4ed3-bbf6-3ccb6989e4d8.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1684469232289/f72272c7-89c4-411e-b72b-4ac0622c5fc5.png
 tags: data-science, blockchain, web3, thegraph
 
