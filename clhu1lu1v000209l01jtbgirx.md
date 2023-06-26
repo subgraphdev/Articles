@@ -102,7 +102,7 @@ graph --version
 
 By checking if The Graph CLI is installed on your local machine, you can ensure that you have access to the necessary tools for subgraph development. The Graph CLI is an essential tool for subgraph development as it allows you to create, deploy and manage subgraphs on The Graph Network.
 
-we have successfully set up our local machines and installed all the necessary tools required to kickstart our subgraph development process. With everything in place, we are now ready to delve into the practical aspects of subgraph development. In our next article, we will embark on the exciting task of building a subgraph for an ERC20 token. This hands-on experience will allow us to apply the knowledge we've gained and witness firsthand the power and versatility of subgraphs in capturing and processing data from smart contracts. Stay tuned for an immersive and insightful exploration into the world of subgraph development!
+we have successfully set up our local machines and installed all the necessary tools required to kickstart our subgraph development process. With everything in place, we are now ready to delve into the practical aspects of subgraph development. In our next article, we will embark on the exciting task of building a subgraph for an ERC-721 token. This hands-on experience will allow us to apply the knowledge we've gained and witness firsthand the power and versatility of subgraphs in capturing and processing data from smart contracts. Stay tuned for an immersive and insightful exploration into the world of subgraph development!
 
 ---
 
